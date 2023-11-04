@@ -1,4 +1,4 @@
-import React from "react";
+import "react";
 import styles from "./cardList.module.css";
 import Pagination from "../pagination/Pagination";
 
